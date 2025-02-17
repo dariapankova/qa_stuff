@@ -1,4 +1,4 @@
-### [резюме]()
+### [резюме](https://github.com/dariapankova/qa_stuff/blob/main/%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.pdf)
 
 ## домашние задания с курса по тестированию vk education
 
